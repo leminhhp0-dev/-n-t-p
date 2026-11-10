@@ -1,0 +1,3 @@
+Ban giao du an: Garage Minh Phát.
+Demo web dang co loi tai hinh dai dien va danh muc Đặt lịch bảo dưỡng xe.
+Khong dua file .env len GitHub.
